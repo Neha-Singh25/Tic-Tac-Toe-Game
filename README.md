@@ -1,6 +1,6 @@
 # 🎮Tic-Tac-Toe Game with Confetti Animation 🎉
 
-#Overview
+# Overview
 This is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game features a fun and engaging user interface, with a special confetti animation to celebrate a win. This project demonstrates fundamental web development skills, including responsive design, DOM manipulation, and CSS animations.
 
 # Features
@@ -15,7 +15,7 @@ This is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The ga
 -JavaScript: Game logic, event handling, and dynamic DOM manipulation.
 
 # How to Play
-1.Clone the repository to your local machine.
+1.Clone the repository to your local machine.<br>
 2.Open index.html in your web browser.
 3.Start playing by clicking on any of the nine grid squares.
 4.The game will automatically detect the winner or declare a draw.
