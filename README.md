@@ -16,7 +16,7 @@ This is a classic Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The ga
 
 # How to Play
 1.Clone the repository to your local machine.<br>
-2.Open indexhtml in your web browser.<br>
+2.Open index.html in your web browser.<br>
 3.Start playing by clicking on any of the nine grid squares.<br>
 4.The game will automatically detect the winner or declare a draw.<br>
 5.Click the "Reset" button to start a new game.
